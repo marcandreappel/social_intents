@@ -1,4 +1,7 @@
-# SocialIntents
+# Social Intents
+
+A helper to open rapidly an social network app or browser window from an url.
+
 
 ## Installation
 
@@ -17,6 +20,6 @@ app/build.gradle dependency:
 
 ```gradle
     dependencies {
-	implementation 'com.github.marcandreappel:socialintent:1.0.0'
+	    implementation 'com.github.marcandreappel:social_intents:1.0.0'
     }
 ```
